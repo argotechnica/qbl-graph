@@ -1,15 +1,7 @@
 // Qabalistic Tree of Life Graph Database
-// 
-// This project an attempt to map out the correspondences on the Qabalistic Tree
-// of Life according to the Western Hermetic tradition, particularly as
-// described by Israel Regardie, but hopefully (eventually) incorporating
-// multiple systems with attribution to what the source was.
 //
 // This document is written in Cypher Query Language for the Neo4j graph
 // database. See: http://neo4j.com/docs/stable/cypher-query-lang.html
-//
-// In particular, Regardie's //A Garden of Pomegranates// is the primary text
-// for spellings, terms, and correspondences.
 //
 // TO DO:
 //   + Figure out how to define "Paths on the Tree" in a way to support
