@@ -7,4 +7,4 @@ In particular, Regardie's *A Garden of Pomegranates* is my primary text at the m
 
 References:
 * https://en.wikipedia.org/wiki/Hermetic_Qabalah
-  * A Garden of Pomegranates: Skrying on the Tree of Life (978-1567181418)
+* *A Garden of Pomegranates: Skrying on the Tree of Life* (978-1567181418)
